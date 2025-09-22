@@ -1,6 +1,4 @@
-
-
-  package com.basicprogramming;
+  package basicprogramming;
   
   public class FirstProgram {
   

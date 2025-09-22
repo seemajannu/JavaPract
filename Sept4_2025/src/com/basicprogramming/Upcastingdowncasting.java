@@ -1,7 +1,7 @@
 package com.basicprogramming;
 
 	class Animal {
-	    static void eat() {
+	   public  static void eat() {
 	        System.out.println("Animal eats");
 	    }
 	     void sleep()
@@ -14,8 +14,8 @@ package com.basicprogramming;
 	     void bark() {
 	        System.out.println("Dog barks");
 	    }
-	     @Override
-	     static  void eat()
+	    
+	     public static void eat()
 	    {
 	    	System.out.println("I eat bones");
 	    }	    
